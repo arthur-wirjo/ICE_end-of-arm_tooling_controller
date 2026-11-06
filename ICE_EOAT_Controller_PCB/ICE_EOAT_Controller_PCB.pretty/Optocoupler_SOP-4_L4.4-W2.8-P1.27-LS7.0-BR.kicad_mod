@@ -1,0 +1,275 @@
+(footprint "Optocoupler_SOP-4_L4.4-W2.8-P1.27-LS7.0-BR"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "TLP291(GB-TP,SE(T")
+	(property "Reference" "REF**"
+		(at 0 -4.635 0)
+		(layer "F.SilkS")
+		(uuid "f4110688-ff4c-4106-9789-89408105d049")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Optocoupler_SOP-4_L4.4-W2.8-P1.27-LS7.0-BR"
+		(at 0 4.635 0)
+		(layer "F.Fab")
+		(uuid "c9e9a0a8-cde2-4798-b5fb-7e6ea9698440")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d151948b-7bb8-4bf6-bd11-aed18c591e1d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f1bb37d8-a08e-418b-80ef-ecca03a7e5c0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "LCSC Part" "C55144"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "86f54b5c-d36a-4056-be1b-b9a569ba1dcc")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.45 -1.45)
+		(end 2.45 -1.45)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7e651041-1398-4daf-8241-e2414bac1daa")
+	)
+	(fp_line
+		(start -2.45 -1.1)
+		(end -2.45 -1.45)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "623767c9-82d3-4add-8808-5473db399999")
+	)
+	(fp_line
+		(start -2.45 0.17)
+		(end -2.45 -0.17)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ce2d90db-87ed-4894-9f55-329a6f3e1f9a")
+	)
+	(fp_line
+		(start -2.45 1.45)
+		(end -2.45 1.1)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5b402d5b-20fc-459e-9047-ba52e30fcc0b")
+	)
+	(fp_line
+		(start -2.45 1.45)
+		(end 2.45 1.45)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1d7827d7-b956-4996-a491-a0297a86aea9")
+	)
+	(fp_line
+		(start 2.45 -1.1)
+		(end 2.45 -1.45)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "72c0c64c-dc82-47ff-99fa-051a79d4cc6d")
+	)
+	(fp_line
+		(start 2.45 0.17)
+		(end 2.45 -0.17)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "08f93b1c-d30c-45a9-833b-f393a169c202")
+	)
+	(fp_line
+		(start 2.45 1.45)
+		(end 2.45 1.1)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bd97485b-790e-4372-9895-cf8fdca453c4")
+	)
+	(fp_arc
+		(start 1.67 0.8)
+		(mid 1.66873 0.500005)
+		(end 1.672539 0.799979)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "96b694bb-adff-489c-9dd8-a3536d628ed1")
+	)
+	(fp_arc
+		(start 3.55 2.06)
+		(mid 3.56873 1.759921)
+		(end 3.552541 2.060148)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f26218c6-a8dc-485e-b178-e3ffac48ea8a")
+	)
+	(fp_circle
+		(center 3.47 1.32)
+		(end 3.5 1.32)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b4621cb1-1f00-4f99-822e-1c94d4b38848")
+	)
+	(fp_circle
+		(center 4.06 0.64)
+		(end 4.31 0.64)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "8d52e193-1868-4e2e-9418-819581cfe74d")
+	)
+	(fp_line
+		(start -2.3 -1.35)
+		(end 2.3 -1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5f2d16f5-e9df-4dea-9c15-1ff7fd6dcfa6")
+	)
+	(fp_line
+		(start -2.3 1.35)
+		(end -2.3 -1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5bfec272-b2e3-4e66-a479-fd6ebba59c84")
+	)
+	(fp_line
+		(start 2.3 -1.35)
+		(end 2.3 1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b1f4c4cf-d91c-42da-bdc7-ea639b3c38dc")
+	)
+	(fp_line
+		(start 2.3 1.35)
+		(end -2.3 1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3ecd8d0d-f14d-496c-a356-7ea0788f7d24")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "3870f745-3ad9-4777-903f-d3716bea0309")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd oval
+		(at 3.5 0.64 270)
+		(size 0.6 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "45dfe608-e89d-4476-8f31-4312f45c18d9")
+	)
+	(pad "2" smd oval
+		(at 3.5 -0.63 270)
+		(size 0.6 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3446f265-5989-4a21-8f68-af2e535747bb")
+	)
+	(pad "3" smd oval
+		(at -3.5 -0.63 270)
+		(size 0.6 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b20de7cb-d97e-4b08-a174-218944b856cb")
+	)
+	(pad "4" smd oval
+		(at -3.5 0.64 270)
+		(size 0.6 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "817c6227-d4de-437a-8315-1bf6bf79cbfb")
+	)
+	(embedded_fonts no)
+	(model "/home/arthur/projects/ICE_end-of-arm_tooling_controller/Component_EDA_Models/Optocoupler_TLP291/easyeda2kicad.3dshapes/SOP-4_L4.4-W2.8-P1.27-LS7.0-BR.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
+)

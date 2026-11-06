@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ICE_EOAT_Controller_PCB") (type "KiCad") (uri "${KIPRJMOD}/ICE_EOAT_Controller_PCB.pretty") (options "") (descr ""))
+)
