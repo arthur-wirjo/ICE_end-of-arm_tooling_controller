@@ -13,7 +13,7 @@
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.41999998688697815
+      "zones": 0.550000011920929
     },
     "prototype_zone_fills": false,
     "selection_filter": {
@@ -52,7 +52,7 @@
       "shapes",
       "ly_points"
     ],
-    "visible_layers": "00000000_00000000_55555555_d7557727",
+    "visible_layers": "00000000_00000000_00000002_2200888d",
     "zone_display_mode": 0
   },
   "git": {
