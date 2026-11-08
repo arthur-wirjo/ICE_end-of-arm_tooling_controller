@@ -7784,6 +7784,17 @@
 			(uuid "b2758cf4-67a1-487a-8e25-5a714547b8f3")
 		)
 		(embedded_fonts no)
+		(model "/home/arthur/projects/ICE_end-of-arm_tooling_controller/Component_EDA_Models/JST_XH_S6B-XH-SM4-TB-LF-SN/S6B-XH-SM4-TB-LF--SN---3DModel-STEP-56544.STEP"
+			(offset
+				(xyz 0 -3 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
