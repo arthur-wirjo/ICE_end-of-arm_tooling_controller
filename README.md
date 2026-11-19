@@ -2,6 +2,7 @@
 
 <img width="300" alt="ICE_EOAT_PCB_Layout" src="https://github.com/user-attachments/assets/d49dc73c-fd0c-4243-92b0-a54d4ccf5f29" />
 <img width="290" alt="ICE_EOAT_PCB_3D_Viewer" src="https://github.com/user-attachments/assets/a26d4fdb-f94b-4e18-8b1e-05bae88245e8" />
+<img width="300" alt="ICE_EOAT_PCB_V1 0" src="https://github.com/user-attachments/assets/0528be01-e217-49a9-adc4-c3686cf55d5b" />
 
 A custom-designed, 64mm circular End-of-Arm Tooling (EOAT) controller PCB designed for the Dobot Magician E6 robot arm. It bridges the robot's 24V industrial PNP digital I/O with a custom servo-driven gripper, providing multi-rail power regulation, opto-isolated signal shifting, current sensing, and dual-protocol servo control.
 
@@ -45,7 +46,7 @@ A major design constraint was the physical footprint: the robot's end-effector i
 
 ## Current Status
 
-* **V1.0 (In Progress):** Schematic and 64mm circular PCB layout are complete. PCBs and components have been ordered and are awaiting arrival for hotplate reflow assembly and initial bring-up.
+* **V1.0 (In Progress):** PCB soldered. Next step is hardware bring-up and testing. 
 
 ## Project Timeline
 
@@ -55,3 +56,5 @@ A major design constraint was the physical footprint: the robot's end-effector i
 | Nov 5, 2026 | Started schematic capture |
 | Nov 6, 2026 | Schematic completed; started 64mm circular PCB layout |
 | Nov 7, 2026 | PCB layout completed; PCBs and BOM ordered |
+| Nov 14, 2026 | PCB and components arrived |
+| Nov 15, 2026 | PCB soldered |
