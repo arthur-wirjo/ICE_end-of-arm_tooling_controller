@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,10.0.3*
-G04 #@! TF.CreationDate,2026-11-08T21:25:36+08:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,10.0.8-10.0.8~ubuntu24.04.1*
+G04 #@! TF.CreationDate,2026-11-10T22:41:34+08:00*
 G04 #@! TF.ProjectId,ICE_EOAT_Controller_PCB,4943455f-454f-4415-945f-436f6e74726f,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 10.0.3) date 2026-11-08 21:25:36*
+G04 Created by KiCad (PCBNEW 10.0.8-10.0.8~ubuntu24.04.1) date 2026-11-10 22:41:34*
 %MOMM*%
 %LPD*%
 G01*
